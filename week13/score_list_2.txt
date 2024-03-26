@@ -1,0 +1,4 @@
+1 lee 100
+2 kim 20
+3 park 50
+4 jeong 76

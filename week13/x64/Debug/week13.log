@@ -1,0 +1,6 @@
+﻿  소스.cpp
+C:\Users\Joohyun\source\repos\OOP2022\week13\소스.cpp(9,29): warning C4305: '초기화 중': '__int64'에서 'int'(으)로 잘립니다.
+C:\Users\Joohyun\source\repos\OOP2022\week13\소스.cpp(9,17): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  소스1.cpp
+  코드를 생성하고 있습니다...
+  week13.vcxproj -> C:\Users\Joohyun\source\repos\OOP2022\week13\x64\Debug\week13.exe

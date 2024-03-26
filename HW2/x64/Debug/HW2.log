@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\Joohyun\source\repos\OOP2022\HW2\소스.cpp(9,22): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\Joohyun\source\repos\OOP2022\HW2\소스.cpp(10,22): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  HW2.vcxproj -> C:\Users\Joohyun\source\repos\OOP2022\HW2\x64\Debug\HW2.exe
